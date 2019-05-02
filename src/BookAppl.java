@@ -24,6 +24,7 @@ public class BookAppl {
 		
 		String str3=book1.getTitle();
 		System.out.println(str3);
+		System.out.println("KKK");
 	}
 
 }
